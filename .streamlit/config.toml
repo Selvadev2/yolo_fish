@@ -1,0 +1,13 @@
+[server]
+address = "127.0.0.1"
+
+port = 8502
+
+maxUploadSize = 1000
+
+runOnSave = true
+
+enableCORS = false
+
+enableXsrfProtection = false
+
